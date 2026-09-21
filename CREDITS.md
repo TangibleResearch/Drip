@@ -1,6 +1,9 @@
 *This is the list of the Ryven project's significant contributors. It does not list everyone who has contributed but only those who have substantially impacted the project. To see the full list of contributors, look at the revision history in source control. To request change you may contact one of the maintainers directly.*
 
-**Advisors**
+**Tangible Research**
+- [Reyaansh Sinha](https://reyaanshs.com)
+  
+**People who contributed to Ryven**
 
 - [dumblob](https://github.com/dumblob)
 - [Moritz Mussgnug](https://www.linkedin.com/in/moritz-mussgnug-053b7b198/)
